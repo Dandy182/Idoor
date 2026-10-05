@@ -1,0 +1,30 @@
+{
+  "name": "idoor",
+  "version": "1.0.0",
+  "description": "\"aplicación de inventario indoor decoración\"",
+  "keywords": [
+    "\"Proyecto",
+    "indoor",
+    "ADSO\""
+  ],
+  "homepage": "https://github.com/Dandy182/Idoor#readme",
+  "bugs": {
+    "url": "https://github.com/Dandy182/Idoor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dandy182/Idoor.git"
+  },
+  "license": "ISC",
+  "author": "\"Daniel Yesid Cely Robayo - Grupo 10\"",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.105.1"
+  }
+}
